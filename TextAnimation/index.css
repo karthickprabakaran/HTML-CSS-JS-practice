@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2A004E;
+}
+
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    font-size: 50px;
+    font-weight: bold;
+    color: #C62300;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
